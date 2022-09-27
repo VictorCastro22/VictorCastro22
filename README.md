@@ -1,8 +1,6 @@
 ### Hello, my name is Victor Manuel 👋
 
-![Manuel GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCastro22&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCastro22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
 
